@@ -64,7 +64,7 @@ You’ll get tools and techniques to analyze processes, find root causes, remove
 ## 🔗 Useful Links / References
 
 - **SSYB Official Course Page** → [Six Sigma Yellow Belt Training – iCert Global](https://www.icertglobal.com/quality-management/six-sigma-yellow-belt)  
-- **iCert Global Homepage** → [https://www.icertglobal.com](https://www.icertglobal.com)  
+- **iCert Global** → [https://www.icertglobal.com](https://www.icertglobal.com)  
 - **Blog: Pass the SSYB Exam – Tips for 2025** → [Top SSYB Tips 2025](https://www.icertglobal.com/blog/pass-the-six-sigma-yellow-belt-exam-top-ssyb-tips-2025)  
 
 ---
