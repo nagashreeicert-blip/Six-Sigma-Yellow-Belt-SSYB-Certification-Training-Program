@@ -147,7 +147,7 @@ Daily stand-up improvements in operations teams.
 - **SSYB Course Page**  
   https://www.icertglobal.com/quality-management/six-sigma-yellow-belt  
 
-- **iCert Global Homepage**  
+- **iCert Global**  
   https://www.icertglobal.com  
 
 - **SSYB Exam Guide 2025**  
